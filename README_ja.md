@@ -1,10 +1,9 @@
 # 🛑 クラウドAIへの課金はもうやめよう。究極のローカルRust AI開発者スタック。
 
-\!([https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/build-passing-brightgreen%3Fstyle%3Dfor-the-badge))
-\!([https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-blue.svg%3Fstyle%3Dfor-the-badge))
-\!([https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/PRs-welcome-brightgreen.svg%3Fstyle%3Dfor-the-badge))
-\!([https://img.shields.io/badge/Rust-100%25-orange?style=for-the-badge\&logo=rust](https://www.google.com/search?q=https://img.shields.io/badge/Rust-100%2525-orange%3Fstyle%3Dfor-the-badge%26logo%3Drust))
-
+[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com/KatanoShingo/awesome-rust-ai-tools)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/KatanoShingo/awesome-rust-ai-tools/pulls)
+[![Rust](https://img.shields.io/badge/Rust-100%25-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 _まだ社外秘のコードベースをOpenAIに送信していますか？ ローカルでシンプルなLLMを動かすためだけに、500MBものPython環境の悪夢と格闘していますか？ それも今日で終わりにしましょう。_
 
 ここは、完全に **Rust 🦀** で構築された、現代のAI開発者向けツールの決定版かつ、綿密にキュレーションされたリストです。これらのツールは爆速で、メモリ安全であり、CLIネイティブ、そしてローカルファーストで動作するように設計されています。Pythonのグローバルインタプリタロック（GIL）に別れを告げ、未来の開発者体験（DX）を手に入れましょう。

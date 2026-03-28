@@ -1,10 +1,9 @@
 # 🛑 STOP PAYING FOR CLOUD AI. The Ultimate Local Rust AI Developer Stack.
 
-\!([https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/build-passing-brightgreen%3Fstyle%3Dfor-the-badge))
-\!([https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-blue.svg%3Fstyle%3Dfor-the-badge))
-\!([https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/PRs-welcome-brightgreen.svg%3Fstyle%3Dfor-the-badge))
-\!([https://img.shields.io/badge/Rust-100%25-orange?style=for-the-badge\&logo=rust](https://www.google.com/search?q=https://img.shields.io/badge/Rust-100%2525-orange%3Fstyle%3Dfor-the-badge%26logo%3Drust))
-
+[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com/KatanoShingo/awesome-rust-ai-tools)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/KatanoShingo/awesome-rust-ai-tools/pulls)
+[![Rust](https://img.shields.io/badge/Rust-100%25-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 _Are you still sending your proprietary codebase to OpenAI? Are you still dealing with 500MB Python environment nightmares just to run a simple local LLM? It ends today._
 
 Welcome to the definitive, meticulously curated list of modern AI developer tools built entirely in **Rust 🦀**. These tools are blazingly fast, memory-safe, CLI-native, and designed to run local-first. Say goodbye to the Python Global Interpreter Lock (GIL) and embrace the future of Developer Experience (DX).
