@@ -17,18 +17,18 @@ _まだ社外秘のコードベースをOpenAIに送信していますか？ ロ
 | :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :------- |
 | [huggingface/candle](https://github.com/huggingface/candle)                 | Rust向けのミニマリストMLフレームワーク。圧倒的なGPUサポートとWASMコンパイルを標準搭載。                    | 19.8k    |
 | [tracel-ai/burn](https://github.com/tracel-ai/burn)                         | WebGPUをサポートし、学習とエッジデプロイメントをシームレスに繋ぐ次世代のディープラーニングフレームワーク。 | 14.7k    |
-| (https://github.com/EricLBuehler/mistral.rs)                                | In-Situ量子化(ISQ)と連続バッチングを備えた、ゼロコンフィグで超最適化されたLLMエンジン。                    | 6.7k     |
+| [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)       | In-Situ量子化(ISQ)と連続バッチングを備えた、ゼロコンフィグで超最適化されたLLMエンジン。                    | 6.7k     |
 | [m0at/rvllm](https://www.google.com/search?q=https://github.com/m0at/rvllm) | vLLMを代替する16MBの静的バイナリ。メモリ消費を1/3に抑えつつ8,300+トークン/秒を実現。                       | 79       |
 
 #### 💻 CLI / Terminal Tools
 
 ターミナルから離れる必要はありません。AIをシェルに直接統合し、複雑なコマンドの生成、ローカルドキュメントの検索、システム管理の自動化を行います。
 
-| リポジトリ URL                                                        | 🚀 一行でわかる魅力的な説明                                                                                | ⭐ Stars |
-| :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :------- |
-| [sigoden/aichat](https://github.com/sigoden/aichat)                   | Chat-REPL、ローカルRAG、シェルアシスタント機能を備えたパワーユーザー向けの究極のAll-in-One CLIツール。     | 9.6k     |
-| [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) | ターミナル版IntelliSense。AIで拡張されたコマンドマネージャーが、あなたのタイポを学習して動的に修正を提案。 | 1.2k     |
-| (https://github.com/Dicklesworthstone/pi\_agent\_rust)                | Electronの肥大化を避けるため、Rustでゼロから構築されたメモリ効率が高く爆速なターミナルエージェント。       | \>500    |
+| リポジトリ URL                                                                        | 🚀 一行でわかる魅力的な説明                                                                                | ⭐ Stars |
+| :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------- | :------- |
+| [sigoden/aichat](https://github.com/sigoden/aichat)                                   | Chat-REPL、ローカルRAG、シェルアシスタント機能を備えたパワーユーザー向けの究極のAll-in-One CLIツール。     | 9.6k     |
+| [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell)                 | ターミナル版IntelliSense。AIで拡張されたコマンドマネージャーが、あなたのタイポを学習して動的に修正を提案。 | 1.2k     |
+| [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) | Electronの肥大化を避けるため、Rustでゼロから構築されたメモリ効率が高く爆速なターミナルエージェント。       | \>500    |
 
 #### ⚡ Code Assistants & IDEs
 
