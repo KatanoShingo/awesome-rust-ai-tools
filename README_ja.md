@@ -29,6 +29,7 @@ _まだ社外秘のコードベースをOpenAIに送信していますか？ ロ
 | [sigoden/aichat](https://github.com/sigoden/aichat)                                   | Chat-REPL、ローカルRAG、シェルアシスタント機能を備えたパワーユーザー向けの究極のAll-in-One CLIツール。     | 9.6k     |
 | [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell)                 | ターミナル版IntelliSense。AIで拡張されたコマンドマネージャーが、あなたのタイポを学習して動的に修正を提案。 | 1.2k     |
 | [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust) | Electronの肥大化を避けるため、Rustでゼロから構築されたメモリ効率が高く爆速なターミナルエージェント。       | >500     |
+| [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | 開発者向けアルファ版の Rust CLI・MCP 知識ストア。暗号化された追記型のエージェントメモと、範囲・有効期限を指定したアクセス権限を提供。 | 2 |
 
 #### ⚡ Code Assistants & IDEs
 
