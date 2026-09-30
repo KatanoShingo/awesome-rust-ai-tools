@@ -29,6 +29,7 @@ Don't leave your terminal. Integrate AI directly into your shell to generate com
 | [sigoden/aichat](https://github.com/sigoden/aichat)                                                      | The ultimate All-in-One CLI tool featuring a Chat-REPL, local RAG, and Shell Assistant for power users. | 9.6k     |
 | [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell)                                    | Like IntelliSense for your terminal; an AI-augmented command manager that learns and fixes your typos.  | 1.2k     |
 | [Dicklesworthstone/pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)     | A memory-efficient, lightning-fast terminal agent built from scratch in Rust to avoid Electron bloat.   | >500     |
+| [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Developer-alpha Rust CLI and MCP knowledge store for encrypted append-only agent notes with scoped, expiring grants. | 2 |
 
 #### ⚡ Code Assistants & IDEs
 
